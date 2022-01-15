@@ -1,0 +1,22 @@
+.product{
+    display: flex;
+}
+.font{
+    font-size: 50px;
+}
+.drone{
+    width: 50%;
+}
+.drone img{
+    width: 60%;
+}
+.more-products{
+    padding-left: 10%;
+}
+.button{
+    background-color: orange;
+    border-radius: 10px;
+    color: white;
+    padding: 1em;
+    width: 10%;
+}
