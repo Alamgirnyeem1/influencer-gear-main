@@ -20,3 +20,15 @@
     padding: 1em;
     width: 10%;
 }
+/* -----------collection-style------------ */
+.collection .collection-banner img{  width: 224px; height: 224px;}
+.info{
+    color: grey;
+}
+.collections{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-column-gap: 24px;
+    grid-row-gap: 24px;
+}
